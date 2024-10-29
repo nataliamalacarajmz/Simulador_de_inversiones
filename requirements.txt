@@ -1,0 +1,8 @@
+streamlit
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+          # Asegura la instalación de wheel para compilar paquetes
